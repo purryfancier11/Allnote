@@ -1,10 +1,5 @@
 Python Study Repository
 
-이 저장소는 소프트웨어공학 프로젝트 수행을 위한 **Python 학습 및 기술 역량**을 정리한 공간입니다. 
-주로 AI 연동(Gemini API) 및 데이터 전처리 역량에 집중하여 기록하고 있습니다.
-
----
-
 카테고리 (Category)
 
 1. [문법 정리 (Syntax)](./01_Syntax/)
